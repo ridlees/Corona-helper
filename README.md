@@ -1,4 +1,4 @@
-# Pár drobnách věcí co mohu dělat
+# Pár drobných věcí co mohu dělat
 
 -Masaryk ve svém textu jak pracovat naznačuje ideu, že drobná práce může změnit svět. A sice nemůžeme drobnou prací zabránit pandemii, můžeme však udělat svět lepší_
 
