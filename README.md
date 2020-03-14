@@ -11,6 +11,8 @@
 -dle studie [http://sci-hub.tw/10.1017/dmp.2013.43](zde), i náhražky roušky dokáží snížit (stále bude, ale lepší než nic) riziko, že kapénkou vir rozšířím. Dám si přes obličej šálu, šátek, případně si šátek vyrobím z trička (nechci totiž nikomu ubližovat)
 - jsem zodpovědný a jako ostatní nenakupuji zbytečně více, než potřebuji. Nepotřebuji 40 rolí toaleťáku.
 - každý den se sprchuji studenou vodou, aspoň 30 vteřin (pomáhá posílit imunitu, zdroje například [https://www.fit-pro.cz/magazin/zdravotni-benefity-otuzovani?xmasGiftUrl=87882ff94dea45a00263210b75c0bf82](Zde)
+- mám-li počítač, zkusím se přidat k Folding at Home, programu, který využije volný výkon mého počítače k boji  s viry (simuluje a zpracovává proteinové řetězce, chci-li pomoc s nastavením, napíšu @ridlees/@KapesniP na twitteru) [https://foldingathome.org](stránky)
+- mám-li zdroje a zkušenost s chemií, nabídnu svému okolí výrobu dezinfekce dle manualu WHO [https://www.who.int/ihr/publications/Annex7.pdf](zde) a [https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf](zde)
 
 
 ## Duševní zdraví
