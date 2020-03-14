@@ -36,3 +36,7 @@ _Masaryk ve svém textu jak pracovat naznačuje ideu, že drobná práce může 
 - Městská knihovna dala velkou spoustu e-booku volně k dispozici [https://www.mlp.cz/cz/katalog-on-line/eknihy/](E-knihy)
 - Na Steamu je spousta her ve velkých slevách, na youtube jsou hodiny přednášek a obsahu.
 - Metropolitní opera bude dělat přenosy děl, každé dílo bude online po 20 hodin (https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/) [https://www.metopera.org](Najdete je na hlavní stránce)
+- 12 velkých muzeí umožňuje virutální prohlídky, doporučuji se podívat https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours
+
+## Mše, co teď?
+- některé kostely přecházejí na online mše, 
