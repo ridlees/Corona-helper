@@ -13,6 +13,7 @@ _Masaryk ve svém textu jak pracovat naznačuje ideu, že drobná práce může 
 - každý den se sprchuji studenou vodou, aspoň 30 vteřin (pomáhá posílit imunitu, zdroje například [https://www.fit-pro.cz/magazin/zdravotni-benefity-otuzovani?xmasGiftUrl=87882ff94dea45a00263210b75c0bf82](Zde)
 - mám-li počítač, zkusím se přidat k Folding at Home, programu, který využije volný výkon mého počítače k boji  s viry (simuluje a zpracovává proteinové řetězce, chci-li pomoc s nastavením, napíšu @ridlees/@KapesniP na twitteru) [https://foldingathome.org](stránky)
 - mám-li zdroje a zkušenost s chemií, nabídnu svému okolí výrobu dezinfekce dle manualu WHO [https://www.who.int/ihr/publications/Annex7.pdf](zde) a [https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf](zde)
+- zvážím, zde nemohu dle návodu ušít bavlněnou roušku a tak pomoci nemocnicím, sociálním místům a lidem, co pomáhají například zde [https://www.youtube.com/watch?v=K5xy2n941jM] či [https://twitter.com/AmebaTweets/status/1239096374832005121]
 
 
 ## Duševní zdraví
@@ -39,4 +40,7 @@ _Masaryk ve svém textu jak pracovat naznačuje ideu, že drobná práce může 
 - 12 velkých muzeí umožňuje virutální prohlídky, doporučuji se podívat https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours
 
 ## Mše, co teď?
-- některé kostely přecházejí na online mše, 
+- některé kostely přecházejí na online mše, například Na cestě Brno [https://www.youtube.com/channel/UCuu3Y__hLS25bgfeIeZXPSg]
+- také CBtesin má své evangelium online [https://www.youtube.com/channel/UCwWP4g-uQRkCQdDvHgWF8Jw]
+- CCE Vršovice [https://www.youtube.com/channel/UCvwTbv7IPUN__Bl7fMtiuhg]
+
